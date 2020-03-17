@@ -1,5 +1,6 @@
-<script>
-    export let name;
+<script type='text/coffeescript'>
+    export name = null
+    console.log 'Hello Svelte-CoffeeScript!'
 </script>
 
 <main>
