@@ -1,11 +1,16 @@
-// svelte.config.js
+// https://github.com/sveltejs/language-tools/blob/master/docs/preprocessors/in-general.md
+
 const sveltePreprocess = require('svelte-preprocess');
 
-module.exports = {
-  preprocess: sveltePreprocess({
+function createPreprocessors() {
+  return sveltePreprocess({
     coffeescript: {
         bare: true
     }
-}),
-  // ...other svelte options
+  })
+}
+
+module.exports = {
+  preprocess: createPreprocessors(),
+  createPreprocessors
 };
