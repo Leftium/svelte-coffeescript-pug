@@ -1,4 +1,5 @@
-<script type='text/coffeescript'>
+<script lang='coffeescript'>
+    # This is a comment
     export name = null
     console.log 'Hello Svelte-CoffeeScript!'
 </script>
