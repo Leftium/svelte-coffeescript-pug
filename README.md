@@ -6,6 +6,7 @@ It is based on [sveltejs/template](https://github.com/sveltejs/template) with so
 
 - *Add support for CoffeeScript and Pug*
 - *Demonstrate usage in App.svelte*
+- Updated this README file
 - *Added file svelte.config.js (for VS Code Svelte language tools)*
 - *Added file launch.json (for VS Code)*
 - Added file .gitattributes
