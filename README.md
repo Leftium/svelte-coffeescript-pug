@@ -5,8 +5,8 @@ This is a project template for [Svelte](https://svelte.dev) apps. It lives at ht
 It is based on [sveltejs/template](https://github.com/sveltejs/template) with some small changes:
 
 - *Add support for CoffeeScript and Pug*
-- *Demonstrate usage in App.svelte*
-- Updated this README file
+- *Demonstrate how to use CoffeeScript/Pug in App.svelte*
+- *Updated this README file*
 - *Added file svelte.config.js (for VS Code Svelte language tools)*
 - *Added file launch.json (for VS Code)*
 - Added file .gitattributes
