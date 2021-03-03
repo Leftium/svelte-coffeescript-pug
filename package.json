@@ -17,7 +17,7 @@
     "svelte": "^3.0.0",
     "svelte-preprocess": "^4.6.3",
     "coffeescript": "^2.5.1",
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   },
   "dependencies": {
     "sirv-cli": "^1.0.0"
